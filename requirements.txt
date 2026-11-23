@@ -1,0 +1,6 @@
+langchain-ollama # package that can create AI agents with Ollama 
+ollama #application that provides LLMs
+langgraph #tech behind connecting the LLM & tools 
+langchain # framework for creating agentic ai
+fastmcp #This package allows you to create and manage MCP Servers/app
+langchain-mcp-adapters #This package allows you to import and run MCP tools 
